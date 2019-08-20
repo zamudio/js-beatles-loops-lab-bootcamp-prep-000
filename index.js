@@ -2,8 +2,8 @@ function theBeatlesPlay(musicians, instruments) {
   var beatles = []
   
   for (let i = 0; i < musicians.length; i++) {
-    var beatleMember = musicians[i] "plays" instruments[i]
-    beatles = beatles + beatleMember
+    var  = musicians[i] + "plays" + instruments[i]
+    
   }
   return beatles
 }
