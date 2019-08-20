@@ -1,10 +1,11 @@
 function theBeatlesPlay(musicians, instruments) {
-  var beatleStr = []
+  var beatles = []
   
   for (let i = 0; i < musicians.length; i++) {
-    beatleStr = "${musicians} plays ${instruments}"
-    beatleStr = 
+    beatleMember = "${musicians} plays ${instruments}"
+    beatles = beatles + beatleMember
   }
+  return beatles
 }
 
 /*var str = [];
