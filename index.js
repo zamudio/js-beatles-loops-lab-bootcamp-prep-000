@@ -27,7 +27,7 @@ function iLoveTheBeatles(number) {
   do {
     i = i + 1
     zzz = 
-  }
+  } while(i < number.length)
 }
 
 /*var result = "";
