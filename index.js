@@ -8,8 +8,6 @@ function theBeatlesPlay(musicians, instruments) {
   return beatles
 }
 
-/*var str = [];
-
-for (let i = 0; i < 9; i++) {
-  str = str + i;
-}*/
+function johnLennonFacts(facts) {
+  while
+}
