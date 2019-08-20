@@ -26,6 +26,7 @@ function iLoveTheBeatles(number) {
   do {
     var beatlesLove = "I love the Beatles!"
     beatlesFans.push(beatlesLove)
+    number = number + 1
   } while(number < 15)
   return beatlesFans
 }
