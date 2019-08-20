@@ -1,4 +1,5 @@
 function theBeatlesPlay(musicians, instruments) {
-  var zzz = []
+  var beatleStrings = []
   
+  for
 }
